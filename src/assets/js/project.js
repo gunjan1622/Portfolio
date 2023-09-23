@@ -6,65 +6,22 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "Intelligent Question Generator",
-    cardImage: "/src/assets/images/project-page/qa.png",
-    Previewlink:
-      "https://huggingface.co/spaces/Gunjan1622/IntelligentQuestionGenerator",
-    Githublink: "https://github.com/Gunjan1622/Intelligent-Question-Generator",
-  },
-  {
-    title: "Solar Panel dust detection",
-    cardImage: "/src/assets/images/project-page/solar.jpeg",
-    Previewlink: "",
-    Githublink: "https://github.com/Gunjan1622/uae-chapter-dust-solar-panels",
-  },
-  {
-    title: "Sign Language Recognition",
-    cardImage: "/src/assets/images/project-page/sl.png",
-    Previewlink: "https://signlanguage.streamlitapp.com/",
-    Githublink: "https://github.com/Gunjan1622/SignLanguage-Pytorch",
-  },
-  {
     title: "Termsbrief",
     cardImage: "/src/assets/images/project-page/termsbrief.jpg",
     Previewlink: "https://tncsummariser.streamlit.app/",
     Githublink: "https://github.com/Gunjan1622/TnC",
   },
   {
-    title: "EligiLoan",
-    cardImage: "/src/assets/images/project-page/eligiloan.jpg",
-    Previewlink: "https://eligiloan.streamlit.app/",
-    Githublink: "https://github.com/Gunjan1622/EligiLoan",
+    title: "Phishnet",
+    cardImage: "/src/assets/images/project-page/termsbrief.jpg",
+    Previewlink: "https://tncsummariser.streamlit.app/",
+    Githublink: "https://github.com/Gunjan1622/TnC",
   },
   {
-    title: "CapTraduire",
-    cardImage: "/src/assets/images/project-page/captraduire.jpg",
-    Previewlink: "",
-    Githublink: "https://github.com/Gunjan1622/CapTraduire",
-  },
-  {
-    title: "Glow Green",
-    cardImage: "/src/assets/images/project-page/gg.png",
-    Previewlink: "https://singleinference-1.streamlit.app/",
-    Githublink: "https://github.com/Glow-Green/GlowGreen",
-  },
-  {
-    title: "Cassava Leaf Disease Classification",
-    cardImage: "/src/assets/images/project-page/cld2.png",
-    Previewlink: "https://cassava-gdsc.streamlit.app/",
-    Githublink: "https://github.com/Gunjan1622/Arch-DL",
-  },
-  {
-    title: "Music and Song Recommendation Engine",
-    cardImage: "/src/assets/images/project-page/movie-recommendation.jpeg",
-    Previewlink: "",
-    Githublink: "https://github.com/itsksquare/Need_Some_Suggestion",
-  },
-  {
-    title: "Scrapster",
-    cardImage: "/src/assets/images/project-page/scrap.png",
-    Previewlink: "",
-    Githublink: "https://github.com/Gunjan1622/Scrapster",
+    title: "Termsbrief",
+    cardImage: "/src/assets/images/project-page/termsbrief.jpg",
+    Previewlink: "https://tncsummariser.streamlit.app/",
+    Githublink: "https://github.com/Gunjan1622/TnC",
   },
 ];
 
