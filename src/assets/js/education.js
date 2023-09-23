@@ -5,28 +5,29 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Machine Learning Approach to Detect Dust on Solar Panels in UAE.",
+    title: "Detecting Child Abuse on Social Media",
     cardImage: "/src/assets/images/education-page/omdena.jfif",
-    moocLink:
-      "https://drive.google.com/file/d/1Ngg9CL2Oykd8mbHz0V61PmOSqbtJfcmY/view?usp=sharing",
+    // moocLink:
+    //   "https://drive.google.com/file/d/1Ngg9CL2Oykd8mbHz0V61PmOSqbtJfcmY/view?usp=sharing",
   },
   {
-    title: "Introduction to Linux",
-    cardImage: "/src/assets/images/education-page/edx.svg",
-    moocLink:
-      "https://courses.edx.org/certificates/087143719eb941fca49b5d4e3438cddd",
-  },
-  {
-    title: "Databases and SQL for Data Science with Python",
+    title: "Applied Machine Learning in Python",
     cardImage: "/src/assets/images/education-page/coursera2.svg",
     moocLink:
-      "https://drive.google.com/file/d/1JnW7-hkh4Cwte5esz4fw38TYhUvgeGPb/view",
+      "https://drive.google.com/file/d/1V-rBtvVEmNbBVGpDlBQc6jQj7Ema8zhQ/view?usp=sharing",
   },
   {
-    title: "Machine Learning Engineering for Production (MLOps)",
-    cardImage: "/src/assets/images/education-page/coursera2.svg",
+    title: "Azure Fundamentals AZ-900",
+    cardImage: "/src/assets/images/education-page/ms.svg",
+    innerHeight: "12px",
     moocLink:
-      "https://www.coursera.org/account/accomplishments/specialization/certificate/2VJUE9MTTVB2",
+      "https://drive.google.com/file/d/1JtfLvidKhY4OBhvkBe0MPBAK7GMcBxuG/view?usp=sharing",
+  },
+  {
+    title: "Security, Compliance, and Identity Fundamentals SC-900",
+    cardImage: "/src/assets/images/education-page/ms.svg",
+    moocLink:
+      "https://drive.google.com/file/d/1uzSq74d4mXiOQENJEFTdAI9ifLWBaB5M/view?usp=sharing",
   },
 ];
 
