@@ -14,14 +14,20 @@ const projects = [
   {
     title: "Phishnet",
     cardImage: "/src/assets/images/project-page/termsbrief.jpg",
-    Previewlink: "https://tncsummariser.streamlit.app/",
-    Githublink: "https://github.com/Gunjan1622/TnC",
+    // Previewlink: "https://tncsummariser.streamlit.app/",
+    Githublink: "https://github.com/gunjan1622/Phishnet",
   },
   {
-    title: "Termsbrief",
+    title: "Image Encryption",
     cardImage: "/src/assets/images/project-page/termsbrief.jpg",
-    Previewlink: "https://tncsummariser.streamlit.app/",
-    Githublink: "https://github.com/Gunjan1622/TnC",
+    Previewlink: "https://lokesh-rathore.github.io/Image-Encrypyion.github.io/",
+    Githublink: "https://github.com/gunjan1622/Image-Encrypyion.github.io",
+  },
+  {
+    title: "Sanitatem",
+    cardImage: "/src/assets/images/project-page/termsbrief.jpg",
+    // Previewlink: "https://lokesh-rathore.github.io/Image-Encrypyion.github.io/",
+    Githublink: "https://github.com/gunjan1622/Sanitatem",
   },
 ];
 
